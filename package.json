@@ -7,7 +7,7 @@
     "eslint",
     "eslintconfig"
   ],
-  "version": "0.9.0",
+  "version": "0.0.2",
   "homepage": "https://github.com/projectdiscovery/eslint-config",
   "bugs": "https://github.com/projectdiscovery/eslint-config/issues",
   "repository": "github:projectdiscovery/eslint-config",
