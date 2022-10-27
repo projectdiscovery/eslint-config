@@ -1,6 +1,6 @@
 module.exports = {
         env: { es2021: true },
-        extends: ["airbnb", "@typescript-eslint", "adjunct", "fp-ts"],
+        extends: ["airbnb", "airbnb-typescript", "adjunct", "fp-ts"],
         parserOptions: {
                 ecmaFeatures: {
                         jsx: true,

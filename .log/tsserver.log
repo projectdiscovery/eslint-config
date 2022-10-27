@@ -1,352 +1,44 @@
-Info 0    [13:38:58.168] Starting TS Server
-Info 1    [13:38:58.170] Version: 4.7.4
-Info 2    [13:38:58.170] Arguments: /Users/jessekelly/.nvm/versions/node/v16.16.0/bin/node /opt/homebrew/lib/node_modules/typescript/lib/tsserver.js --logFile /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/.log/tsserver.log --logVerbosity info --cancellationPipeName /private/var/folders/lc/y2dbm6r52hj5ljsq41phk2sm0000gn/T/006d3e058189e3925a3918a6148f7038/tscancellation*
-Info 3    [13:38:58.170] Platform: darwin NodeVersion: 16 CaseSensitive: false
-Info 4    [13:38:58.170] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
-Info 5    [13:38:58.178] Format host information updated
-Info 6    [13:38:58.186] Search path: /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config
-Info 7    [13:38:58.187] For info: /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/index.js :: No config files found.
-Info 8    [13:38:58.189] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 9    [13:38:58.447] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 258.0555419921875ms
-Info 10   [13:38:58.447] Project '/dev/null/inferredProject1*' (Inferred)
-Info 11   [13:38:58.447] 	Files (19)
+Info 0    [13:51:46.944] Starting TS Server
+Info 1    [13:51:46.946] Version: 4.8.4
+Info 2    [13:51:46.946] Arguments: /Users/jessekelly/.nvm/versions/node/v16.16.0/bin/node /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/node_modules/typescript/lib/tsserver.js --logFile /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/.log/tsserver.log --logVerbosity info --cancellationPipeName /private/var/folders/lc/y2dbm6r52hj5ljsq41phk2sm0000gn/T/8561ca718f4bec21d4f730ee88cf9fce/tscancellation*
+Info 3    [13:51:46.946] Platform: darwin NodeVersion: 16 CaseSensitive: false
+Info 4    [13:51:46.946] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [13:51:46.953] Format host information updated
+Info 6    [13:51:46.958] Search path: /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config
+Info 7    [13:51:46.958] For info: /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/index.js :: No config files found.
+Info 8    [13:51:46.960] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 9    [13:51:47.276] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 315.40033400058746ms
+Info 10   [13:51:47.276] Project '/dev/null/inferredProject1*' (Inferred)
+Info 11   [13:51:47.276] 	Files (63)
 
-Info 12   [13:38:58.447] -----------------------------------------------
-Info 13   [13:38:58.459] AutoImportProviderProject: found 4 root files in 4 dependencies in 10.747250020503998 ms
-Info 14   [13:38:58.460] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
-Info 15   [13:38:58.625] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 164.97754096984863ms
-Info 16   [13:38:58.625] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
-Info 17   [13:38:58.625] 	Files (31)
+Info 12   [13:51:47.276] -----------------------------------------------
+Info 13   [13:51:47.285] AutoImportProviderProject: found 6 root files in 6 dependencies in 8.156666994094849 ms
+Info 14   [13:51:47.286] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 15   [13:51:47.527] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 240.17250001430511ms
+Info 16   [13:51:47.527] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 17   [13:51:47.527] 	Files (73)
 
-Info 18   [13:38:58.625] -----------------------------------------------
-Info 19   [13:38:59.821] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 20   [13:38:59.821] Elapsed:: 0.13666701316833496ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 21   [13:38:59.821] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 22   [13:38:59.821] Elapsed:: 0.011749982833862305ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 23   [13:38:59.821] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 24   [13:38:59.821] Elapsed:: 0.008374989032745361ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 25   [13:38:59.872] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/LICENSE :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 26   [13:38:59.872] Elapsed:: 0.03691601753234863ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/LICENSE :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 27   [13:38:59.872] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/README.md :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 28   [13:38:59.872] Elapsed:: 0.012750029563903809ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/README.md :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 29   [13:38:59.872] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/helpers.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 30   [13:38:59.872] Elapsed:: 0.11491698026657104ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/helpers.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 31   [13:38:59.872] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/index.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 32   [13:38:59.872] Elapsed:: 0.014584004878997803ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/index.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 33   [13:38:59.872] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/rules :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 34   [13:38:59.872] Elapsed:: 0.006540954113006592ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/rules :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 35   [13:38:59.872] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/package.json :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 36   [13:38:59.872] Elapsed:: 0.025916993618011475ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/package.json :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 37   [13:38:59.872] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/use-at-your-own-risk.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 38   [13:38:59.872] Elapsed:: 0.01849997043609619ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/use-at-your-own-risk.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 39   [13:38:59.872] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/rules/best-practices.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 40   [13:38:59.872] Elapsed:: 0.012499988079071045ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/rules/best-practices.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 41   [13:38:59.872] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/rules/deprecated.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 42   [13:38:59.872] Elapsed:: 0.06404197216033936ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/rules/deprecated.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 43   [13:38:59.872] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/rules/ecmascript-6.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 44   [13:38:59.872] Elapsed:: 0.011541008949279785ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/rules/ecmascript-6.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 45   [13:38:59.872] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/rules/index.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 46   [13:38:59.872] Elapsed:: 0.010040998458862305ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/rules/index.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 47   [13:38:59.872] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/rules/node-commonjs.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 48   [13:38:59.872] Elapsed:: 0.011207997798919678ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/rules/node-commonjs.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 49   [13:38:59.872] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/rules/possible-errors.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 50   [13:38:59.872] Elapsed:: 0.014999985694885254ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/rules/possible-errors.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 51   [13:38:59.872] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/rules/strict-mode.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 52   [13:38:59.872] Elapsed:: 0.010708034038543701ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/rules/strict-mode.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 53   [13:38:59.872] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/rules/stylistic-issues.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 54   [13:38:59.872] Elapsed:: 0.009457945823669434ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/rules/stylistic-issues.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 55   [13:38:59.872] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/rules/variables.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 56   [13:38:59.872] Elapsed:: 0.009124994277954102ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/rules/variables.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 57   [13:38:59.873] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/helpers.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 58   [13:38:59.873] Elapsed:: 0.011667013168334961ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/helpers.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 59   [13:38:59.873] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/index.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 60   [13:38:59.873] Elapsed:: 0.009750008583068848ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/index.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 61   [13:38:59.873] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/package.json :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 62   [13:38:59.873] Elapsed:: 0.009167015552520752ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/package.json :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 63   [13:38:59.873] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/LICENSE :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 64   [13:38:59.873] Elapsed:: 0.007082998752593994ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/LICENSE :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 65   [13:38:59.873] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/README.md :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 66   [13:38:59.873] Elapsed:: 0.0059580206871032715ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/README.md :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 67   [13:38:59.873] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/use-at-your-own-risk.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 68   [13:38:59.873] Elapsed:: 0.009832978248596191ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/use-at-your-own-risk.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 69   [13:38:59.873] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/rules/node-commonjs.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 70   [13:38:59.873] Elapsed:: 0.010334014892578125ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/rules/node-commonjs.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 71   [13:38:59.873] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/rules/deprecated.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 72   [13:38:59.873] Elapsed:: 0.012000024318695068ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/rules/deprecated.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 73   [13:38:59.873] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/rules/possible-errors.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 74   [13:38:59.873] Elapsed:: 0.009541988372802734ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/rules/possible-errors.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 75   [13:38:59.873] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/rules/strict-mode.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 76   [13:38:59.873] Elapsed:: 0.009083986282348633ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/rules/strict-mode.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 77   [13:38:59.873] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/rules/best-practices.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 78   [13:38:59.873] Elapsed:: 0.008625030517578125ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/rules/best-practices.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 79   [13:38:59.873] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/rules/ecmascript-6.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 80   [13:38:59.873] Elapsed:: 0.008499979972839355ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/rules/ecmascript-6.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 81   [13:38:59.873] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/rules/index.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 82   [13:38:59.873] Elapsed:: 0.010084033012390137ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/rules/index.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 83   [13:38:59.873] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/rules/stylistic-issues.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 84   [13:38:59.873] Elapsed:: 0.008957982063293457ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/rules/stylistic-issues.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 85   [13:38:59.873] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/rules/variables.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 86   [13:38:59.873] Elapsed:: 0.008749961853027344ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/rules/variables.d.ts :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 87   [13:38:59.873] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/rules :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 88   [13:38:59.873] Elapsed:: 0.004999995231628418ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg/rules :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 89   [13:38:59.873] DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 90   [13:38:59.873] Elapsed:: 0.0059999823570251465ms DirectoryWatcher:: Triggered with /Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/.eslint-8irFaMWg :: WatchInfo: /Users/jessekelly/Library/Caches/typescript/4.7/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
-Info 91   [13:39:00.256] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 92   [13:39:00.275] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true structureIsReused:: Not Elapsed: 19.12737500667572ms
-Info 93   [13:39:00.275] Project '/dev/null/inferredProject1*' (Inferred)
-Info 94   [13:39:00.275] 	Files (23)
+Info 18   [13:51:47.527] -----------------------------------------------
+Info 19   [13:51:48.293] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 20   [13:51:48.308] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true structureIsReused:: Not Elapsed: 14.73770797252655ms
+Info 21   [13:51:48.308] Project '/dev/null/inferredProject1*' (Inferred)
+Info 22   [13:51:48.308] 	Files (67)
 
-Info 95   [13:39:00.275] -----------------------------------------------
-Info 96   [13:39:00.275] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
-Info 97   [13:39:00.275] 	Files (31)
+Info 23   [13:51:48.308] -----------------------------------------------
+Info 24   [13:51:48.308] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 25   [13:51:48.308] 	Files (73)
 
-Info 98   [13:39:00.275] -----------------------------------------------
-Info 99   [13:39:01.726] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 100  [13:39:01.741] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false structureIsReused:: Completely Elapsed: 14.470375001430511ms
-Info 101  [13:39:01.741] Different program with same set of files
-Info 102  [13:39:02.626] Before ensureProjectForOpenFiles:
-Info 103  [13:39:02.626] After ensureProjectForOpenFiles:
-Info 104  [13:39:02.627] got projects updated in background, updating diagnostics for /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/index.js
-Info 105  [13:40:16.646] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 106  [13:40:16.661] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: false structureIsReused:: Completely Elapsed: 13.388999998569489ms
-Info 107  [13:40:16.661] Different program with same set of files
-Info 108  [13:40:17.842] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 109  [13:40:17.851] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: false structureIsReused:: Completely Elapsed: 8.655333042144775ms
-Info 110  [13:40:17.851] Different program with same set of files
-Info 111  [13:40:18.650] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 112  [13:40:18.659] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 6 structureChanged: false structureIsReused:: Completely Elapsed: 8.898499965667725ms
-Info 113  [13:40:18.660] Different program with same set of files
-Info 114  [13:41:05.719] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 115  [13:41:05.732] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 7 structureChanged: false structureIsReused:: Completely Elapsed: 11.595375001430511ms
-Info 116  [13:41:05.732] Different program with same set of files
-Info 117  [13:41:06.313] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 118  [13:41:06.326] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 8 structureChanged: false structureIsReused:: Completely Elapsed: 13.084666013717651ms
-Info 119  [13:41:06.326] Different program with same set of files
-Info 120  [13:41:06.847] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 121  [13:41:06.853] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 9 structureChanged: false structureIsReused:: Completely Elapsed: 5.958791971206665ms
-Info 122  [13:41:06.853] Different program with same set of files
-Info 123  [13:41:10.872] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 124  [13:41:10.881] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 10 structureChanged: false structureIsReused:: Completely Elapsed: 9.61583399772644ms
-Info 125  [13:41:10.882] Different program with same set of files
-Info 126  [13:41:11.336] Format host information updated
-Info 127  [13:41:11.552] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 128  [13:41:11.554] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 11 structureChanged: false structureIsReused:: Completely Elapsed: 2.408875048160553ms
-Info 129  [13:41:11.554] Different program with same set of files
-Info 130  [13:41:14.252] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 131  [13:41:14.264] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 12 structureChanged: false structureIsReused:: Completely Elapsed: 11.727874994277954ms
-Info 132  [13:41:14.264] Different program with same set of files
-Info 133  [13:41:14.363] Format host information updated
-Info 134  [13:41:21.143] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 135  [13:41:21.152] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 13 structureChanged: false structureIsReused:: Completely Elapsed: 8.590709030628204ms
-Info 136  [13:41:21.152] Different program with same set of files
-Info 137  [13:41:21.988] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 138  [13:41:21.997] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 14 structureChanged: false structureIsReused:: Completely Elapsed: 8.26504099369049ms
-Info 139  [13:41:21.997] Different program with same set of files
-Info 140  [13:41:22.803] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 141  [13:41:22.815] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 15 structureChanged: false structureIsReused:: Completely Elapsed: 11.584833979606628ms
-Info 142  [13:41:22.815] Different program with same set of files
-Info 143  [13:41:24.114] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 144  [13:41:24.121] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 16 structureChanged: false structureIsReused:: Completely Elapsed: 6.816541016101837ms
-Info 145  [13:41:24.121] Different program with same set of files
-Info 146  [13:41:27.346] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 147  [13:41:27.356] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 17 structureChanged: false structureIsReused:: Completely Elapsed: 10.034166038036346ms
-Info 148  [13:41:27.356] Different program with same set of files
-Info 149  [13:41:28.153] Format host information updated
-Info 150  [13:42:24.605] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 151  [13:42:24.622] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 18 structureChanged: false structureIsReused:: Completely Elapsed: 16.03650003671646ms
-Info 152  [13:42:24.622] Different program with same set of files
-Info 153  [13:42:24.649] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 154  [13:42:24.653] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 19 structureChanged: false structureIsReused:: Completely Elapsed: 3.223750054836273ms
-Info 155  [13:42:24.653] Different program with same set of files
-Info 156  [13:42:25.380] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 157  [13:42:25.389] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 20 structureChanged: false structureIsReused:: Completely Elapsed: 8.324375033378601ms
-Info 158  [13:42:25.389] Different program with same set of files
-Info 159  [13:42:25.399] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 160  [13:42:25.410] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 21 structureChanged: false structureIsReused:: Completely Elapsed: 10.685374975204468ms
-Info 161  [13:42:25.410] Different program with same set of files
-Info 162  [13:42:25.734] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 163  [13:42:25.742] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 22 structureChanged: false structureIsReused:: Completely Elapsed: 6.977500021457672ms
-Info 164  [13:42:25.742] Different program with same set of files
-Info 165  [13:42:26.499] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 166  [13:42:26.508] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 23 structureChanged: false structureIsReused:: Completely Elapsed: 8.149583995342255ms
-Info 167  [13:42:26.508] Different program with same set of files
-Info 168  [13:42:30.411] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 169  [13:42:30.417] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 24 structureChanged: false structureIsReused:: Completely Elapsed: 6.164207994937897ms
-Info 170  [13:42:30.417] Different program with same set of files
-Info 171  [13:42:32.955] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 172  [13:42:32.963] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 25 structureChanged: false structureIsReused:: Completely Elapsed: 7.155125021934509ms
-Info 173  [13:42:32.964] Different program with same set of files
-Info 174  [13:42:34.264] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 175  [13:42:34.273] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 26 structureChanged: false structureIsReused:: Completely Elapsed: 9.662125051021576ms
-Info 176  [13:42:34.274] Different program with same set of files
-Info 177  [13:42:36.298] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 178  [13:42:36.306] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 27 structureChanged: false structureIsReused:: Completely Elapsed: 7.710332989692688ms
-Info 179  [13:42:36.306] Different program with same set of files
-Info 180  [13:42:36.786] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 181  [13:42:36.794] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 28 structureChanged: false structureIsReused:: Completely Elapsed: 7.238415956497192ms
-Info 182  [13:42:36.794] Different program with same set of files
-Info 183  [13:42:38.828] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 184  [13:42:38.835] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 29 structureChanged: false structureIsReused:: Completely Elapsed: 7.002332985401154ms
-Info 185  [13:42:38.835] Different program with same set of files
-Info 186  [13:42:39.253] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 187  [13:42:39.260] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 30 structureChanged: false structureIsReused:: Completely Elapsed: 6.9862499833106995ms
-Info 188  [13:42:39.260] Different program with same set of files
-Info 189  [13:42:39.590] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 190  [13:42:39.596] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 31 structureChanged: false structureIsReused:: Completely Elapsed: 5.914541006088257ms
-Info 191  [13:42:39.596] Different program with same set of files
-Info 192  [13:42:40.614] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 193  [13:42:40.622] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 32 structureChanged: false structureIsReused:: Completely Elapsed: 7.317958056926727ms
-Info 194  [13:42:40.622] Different program with same set of files
-Info 195  [13:42:42.337] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 196  [13:42:42.341] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 33 structureChanged: false structureIsReused:: Completely Elapsed: 3.8616660237312317ms
-Info 197  [13:42:42.341] Different program with same set of files
-Info 198  [13:42:42.807] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 199  [13:42:42.814] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 34 structureChanged: false structureIsReused:: Completely Elapsed: 7.042167007923126ms
-Info 200  [13:42:42.814] Different program with same set of files
-Info 201  [13:42:43.265] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 202  [13:42:43.274] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 35 structureChanged: false structureIsReused:: Completely Elapsed: 9.063250005245209ms
-Info 203  [13:42:43.274] Different program with same set of files
-Info 204  [13:42:53.951] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 205  [13:42:53.956] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 36 structureChanged: false structureIsReused:: Completely Elapsed: 3.7427090406417847ms
-Info 206  [13:42:53.956] Different program with same set of files
-Info 207  [13:42:55.449] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 208  [13:42:55.453] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 37 structureChanged: false structureIsReused:: Completely Elapsed: 3.964792013168335ms
-Info 209  [13:42:55.453] Different program with same set of files
-Info 210  [13:42:57.000] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 211  [13:42:57.005] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 38 structureChanged: false structureIsReused:: Completely Elapsed: 4.891499996185303ms
-Info 212  [13:42:57.005] Different program with same set of files
-Info 213  [13:42:59.548] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 214  [13:42:59.556] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 39 structureChanged: false structureIsReused:: Completely Elapsed: 7.615875005722046ms
-Info 215  [13:42:59.556] Different program with same set of files
-Info 216  [13:42:59.960] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 217  [13:42:59.969] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 40 structureChanged: false structureIsReused:: Completely Elapsed: 8.02308303117752ms
-Info 218  [13:42:59.969] Different program with same set of files
-Info 219  [13:43:01.830] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 220  [13:43:01.840] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 41 structureChanged: false structureIsReused:: Completely Elapsed: 9.141790986061096ms
-Info 221  [13:43:01.840] Different program with same set of files
-Info 222  [13:43:02.056] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 223  [13:43:02.061] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 42 structureChanged: false structureIsReused:: Completely Elapsed: 5.139958024024963ms
-Info 224  [13:43:02.061] Different program with same set of files
-Info 225  [13:43:02.541] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 226  [13:43:02.548] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 43 structureChanged: false structureIsReused:: Completely Elapsed: 6.146749973297119ms
-Info 227  [13:43:02.548] Different program with same set of files
-Info 228  [13:43:03.256] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 229  [13:43:03.264] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 44 structureChanged: false structureIsReused:: Completely Elapsed: 7.540249943733215ms
-Info 230  [13:43:03.264] Different program with same set of files
-Info 231  [13:43:06.237] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 232  [13:43:06.247] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 45 structureChanged: false structureIsReused:: Completely Elapsed: 9.247750043869019ms
-Info 233  [13:43:06.247] Different program with same set of files
-Info 234  [13:44:53.781] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 235  [13:44:53.791] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 46 structureChanged: false structureIsReused:: Completely Elapsed: 7.9845839738845825ms
-Info 236  [13:44:53.791] Different program with same set of files
-Info 237  [13:44:55.067] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 238  [13:44:55.077] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 47 structureChanged: false structureIsReused:: Completely Elapsed: 9.955832958221436ms
-Info 239  [13:44:55.077] Different program with same set of files
-Info 240  [13:44:56.048] Format host information updated
-Info 241  [13:44:56.257] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 242  [13:44:56.260] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 48 structureChanged: false structureIsReused:: Completely Elapsed: 2.477791965007782ms
-Info 243  [13:44:56.260] Different program with same set of files
-Info 244  [13:44:59.730] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 245  [13:44:59.737] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 49 structureChanged: false structureIsReused:: Completely Elapsed: 7.20583301782608ms
-Info 246  [13:44:59.738] Different program with same set of files
-Info 247  [13:44:59.956] Format host information updated
-Info 248  [13:45:10.495] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 249  [13:45:10.509] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 50 structureChanged: false structureIsReused:: Completely Elapsed: 12.672917008399963ms
-Info 250  [13:45:10.509] Different program with same set of files
-Info 251  [13:45:17.581] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 252  [13:45:17.590] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 51 structureChanged: false structureIsReused:: Completely Elapsed: 8.383542001247406ms
-Info 253  [13:45:17.590] Different program with same set of files
-Info 254  [13:45:18.143] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 255  [13:45:18.152] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 52 structureChanged: false structureIsReused:: Completely Elapsed: 8.908666014671326ms
-Info 256  [13:45:18.152] Different program with same set of files
-Info 257  [13:45:18.592] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 258  [13:45:18.600] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 53 structureChanged: false structureIsReused:: Completely Elapsed: 7.315416991710663ms
-Info 259  [13:45:18.600] Different program with same set of files
-Info 260  [13:45:19.024] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 261  [13:45:19.029] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 54 structureChanged: false structureIsReused:: Completely Elapsed: 4.860749959945679ms
-Info 262  [13:45:19.029] Different program with same set of files
-Info 263  [13:45:20.026] Format host information updated
-Info 264  [13:45:36.195] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 265  [13:45:36.205] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 55 structureChanged: false structureIsReused:: Completely Elapsed: 9.462333977222443ms
-Info 266  [13:45:36.205] Different program with same set of files
-Info 267  [13:45:36.935] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 268  [13:45:36.943] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 56 structureChanged: false structureIsReused:: Completely Elapsed: 7.282292008399963ms
-Info 269  [13:45:36.943] Different program with same set of files
-Info 270  [13:45:37.178] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 271  [13:45:37.185] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 57 structureChanged: false structureIsReused:: Completely Elapsed: 6.693417012691498ms
-Info 272  [13:45:37.185] Different program with same set of files
-Info 273  [13:45:38.102] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 274  [13:45:38.104] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 58 structureChanged: false structureIsReused:: Completely Elapsed: 2.463124990463257ms
-Info 275  [13:45:38.104] Different program with same set of files
-Info 276  [13:45:39.919] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 277  [13:45:39.924] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 59 structureChanged: false structureIsReused:: Completely Elapsed: 4.47237503528595ms
-Info 278  [13:45:39.924] Different program with same set of files
-Info 279  [13:45:41.120] Format host information updated
-Info 280  [13:46:05.188] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 281  [13:46:05.198] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 60 structureChanged: false structureIsReused:: Completely Elapsed: 9.64549994468689ms
-Info 282  [13:46:05.198] Different program with same set of files
-Info 283  [13:46:25.648] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 284  [13:46:25.662] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 61 structureChanged: false structureIsReused:: Completely Elapsed: 12.367500007152557ms
-Info 285  [13:46:25.662] Different program with same set of files
-Info 286  [13:46:27.790] Format host information updated
-Info 287  [13:46:27.998] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 288  [13:46:28.001] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 62 structureChanged: false structureIsReused:: Completely Elapsed: 2.664209008216858ms
-Info 289  [13:46:28.001] Different program with same set of files
-Info 290  [13:46:34.095] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 291  [13:46:34.103] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 63 structureChanged: false structureIsReused:: Completely Elapsed: 8.027875006198883ms
-Info 292  [13:46:34.103] Different program with same set of files
-Info 293  [13:46:52.007] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 294  [13:46:52.017] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 64 structureChanged: false structureIsReused:: Completely Elapsed: 8.5711669921875ms
-Info 295  [13:46:52.017] Different program with same set of files
-Info 296  [13:46:52.457] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 297  [13:46:52.467] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 65 structureChanged: false structureIsReused:: Completely Elapsed: 8.966166973114014ms
-Info 298  [13:46:52.467] Different program with same set of files
-Info 299  [13:46:52.901] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 300  [13:46:52.915] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 66 structureChanged: false structureIsReused:: Completely Elapsed: 13.187750041484833ms
-Info 301  [13:46:52.915] Different program with same set of files
-Info 302  [13:46:53.393] Format host information updated
-Info 303  [13:47:14.400] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 304  [13:47:14.409] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 67 structureChanged: false structureIsReused:: Completely Elapsed: 8.19054102897644ms
-Info 305  [13:47:14.409] Different program with same set of files
-Info 306  [13:47:35.300] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 307  [13:47:35.307] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 68 structureChanged: false structureIsReused:: Completely Elapsed: 7.484624981880188ms
-Info 308  [13:47:35.308] Different program with same set of files
-Info 309  [13:48:14.680] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 310  [13:48:14.688] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 69 structureChanged: false structureIsReused:: Completely Elapsed: 7.543749988079071ms
-Info 311  [13:48:14.688] Different program with same set of files
-Info 312  [13:48:15.124] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 313  [13:48:15.132] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 70 structureChanged: false structureIsReused:: Completely Elapsed: 7.698917031288147ms
-Info 314  [13:48:15.132] Different program with same set of files
-Info 315  [13:48:15.832] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 316  [13:48:15.841] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 71 structureChanged: false structureIsReused:: Completely Elapsed: 9.281916975975037ms
-Info 317  [13:48:15.841] Different program with same set of files
-Info 318  [13:48:17.554] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 319  [13:48:17.558] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 72 structureChanged: false structureIsReused:: Completely Elapsed: 4.115374982357025ms
-Info 320  [13:48:17.558] Different program with same set of files
-Info 321  [13:48:18.797] Format host information updated
-Info 322  [13:48:20.939] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 323  [13:48:20.947] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 73 structureChanged: false structureIsReused:: Completely Elapsed: 7.051042020320892ms
-Info 324  [13:48:20.947] Different program with same set of files
-Info 325  [13:48:21.628] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 326  [13:48:21.635] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 74 structureChanged: false structureIsReused:: Completely Elapsed: 7.553375005722046ms
-Info 327  [13:48:21.636] Different program with same set of files
-Info 328  [13:48:22.279] Format host information updated
-Info 329  [13:48:31.406] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 330  [13:48:31.411] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 75 structureChanged: false structureIsReused:: Completely Elapsed: 4.266499996185303ms
-Info 331  [13:48:31.411] Different program with same set of files
-Info 332  [13:48:31.835] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 333  [13:48:31.841] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 76 structureChanged: false structureIsReused:: Completely Elapsed: 5.652292013168335ms
-Info 334  [13:48:31.841] Different program with same set of files
-Info 335  [13:48:32.405] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 336  [13:48:32.417] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 77 structureChanged: false structureIsReused:: Completely Elapsed: 11.962083041667938ms
-Info 337  [13:48:32.417] Different program with same set of files
-Info 338  [13:48:33.890] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 339  [13:48:33.894] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 78 structureChanged: false structureIsReused:: Completely Elapsed: 4.427459001541138ms
-Info 340  [13:48:33.894] Different program with same set of files
-Info 341  [13:48:36.085] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 342  [13:48:36.100] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 79 structureChanged: false structureIsReused:: Completely Elapsed: 14.838957965373993ms
-Info 343  [13:48:36.100] Different program with same set of files
-Info 344  [13:48:38.071] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 345  [13:48:38.079] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 80 structureChanged: false structureIsReused:: Completely Elapsed: 6.63495796918869ms
-Info 346  [13:48:38.079] Different program with same set of files
-Info 347  [13:48:38.318] Format host information updated
+Info 26   [13:51:48.308] -----------------------------------------------
+Info 27   [13:51:50.543] Before ensureProjectForOpenFiles:
+Info 28   [13:51:50.543] After ensureProjectForOpenFiles:
+Info 29   [13:51:50.543] got projects updated in background, updating diagnostics for /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/index.js
+Info 30   [13:53:08.691] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 31   [13:53:08.720] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false structureIsReused:: Completely Elapsed: 25.936084032058716ms
+Info 32   [13:53:08.720] Different program with same set of files
+Info 33   [13:53:09.989] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 34   [13:53:10.003] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: false structureIsReused:: Completely Elapsed: 13.483540952205658ms
+Info 35   [13:53:10.003] Different program with same set of files
+Info 36   [13:53:11.535] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 37   [13:53:11.547] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: false structureIsReused:: Completely Elapsed: 11.80400002002716ms
+Info 38   [13:53:11.547] Different program with same set of files
+Info 39   [13:53:12.970] Format host information updated

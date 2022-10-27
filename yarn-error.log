@@ -1,0 +1,64 @@
+Arguments: 
+  /Users/jessekelly/.nvm/versions/node/v16.16.0/bin/node /opt/homebrew/bin/yarn remove eslint-config-adjunct
+
+PATH: 
+  /Users/jessekelly/bin:/opt/homebrew/opt/libxml2/bin:/Users/jessekelly/.nvm/versions/node/v16.16.0/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/aria2/bin:/Users/jessekelly/.cargo/bin
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  16.16.0
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  Error: Failed to replace env in config: ${NPM_TOKEN}
+      at /opt/homebrew/lib/node_modules/yarn/lib/cli.js:99004:13
+      at String.replace (<anonymous>)
+      at envReplace (/opt/homebrew/lib/node_modules/yarn/lib/cli.js:98999:16)
+      at Function.normalizeConfig (/opt/homebrew/lib/node_modules/yarn/lib/cli.js:31930:69)
+      at NpmRegistry.<anonymous> (/opt/homebrew/lib/node_modules/yarn/lib/cli.js:31960:34)
+      at Generator.next (<anonymous>)
+      at step (/opt/homebrew/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /opt/homebrew/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "@cdoublev/eslint-config",
+    "description": "ESLint configurations",
+    "author": "Guillaume Lebas",
+    "license": "MIT",
+    "keywords": [
+      "eslint",
+      "eslintconfig"
+    ],
+    "version": "0.9.0",
+    "homepage": "https://github.com/creativewave/eslint-config",
+    "bugs": "https://github.com/creativewave/eslint-config/issues",
+    "repository": "github:creativewave/eslint-config",
+    "peerDependencies": {
+      "eslint": ">= 8"
+    },
+    "optionalDependencies": {
+      "eslint-plugin-compat": ">= 3",
+      "eslint-plugin-jest": ">= 25",
+      "eslint-plugin-node": ">=11",
+      "eslint-plugin-react": ">= 7",
+      "eslint-plugin-react-hooks": ">= 4"
+    },
+    "publishConfig": {
+      "access": "public"
+    },
+    "dependencies": {
+      "eslint-config-adjunct": "^4.11.2",
+      "eslint-config-airbnb": "^19.0.4"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
