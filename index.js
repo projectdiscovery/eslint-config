@@ -17,6 +17,7 @@ module.exports = {
                 },
                 ecmaVersion: 12,
                 sourceType: 'module',
+                project: ["tsconfig.json"]
         },
         rules: {
                 'no-use-before-define': 'warn',
