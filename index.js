@@ -1,15 +1,19 @@
 module.exports = {
-        env: { es2021: true },
+        parser: "@typescript-eslint/parser",
+        env: { es6: true },
         plugins: [
                 "fp-ts",
-                "jsdoc"
+                "jsdoc",
+                "@typescript-eslint"
         ],
         extends: [
                 "airbnb",
                 "airbnb-typescript",
                 "plugin:fp-ts/recommended",
                 "adjunct",
-                "plugin:jsdoc/recommended"
+                "plugin:jsdoc/recommended",
+                "plugin:functional/recommended",
+                "plugin:functional/stylistic"
         ],
         parserOptions: {
                 ecmaFeatures: {
