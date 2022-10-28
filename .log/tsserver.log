@@ -1,85 +1,50 @@
-Info 0    [17:18:42.115] Starting TS Server
-Info 1    [17:18:42.116] Version: 4.7.4
-Info 2    [17:18:42.116] Arguments: /Users/jessekelly/.nvm/versions/node/v16.16.0/bin/node /opt/homebrew/lib/node_modules/typescript/lib/tsserver.js --logFile /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/.log/tsserver.log --logVerbosity info --cancellationPipeName /private/var/folders/lc/y2dbm6r52hj5ljsq41phk2sm0000gn/T/bba975516f13ad2c86350b3494a7da81/tscancellation*
-Info 3    [17:18:42.116] Platform: darwin NodeVersion: 16 CaseSensitive: false
-Info 4    [17:18:42.116] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
-Info 5    [17:18:42.123] Format host information updated
-Info 6    [17:18:42.127] Search path: /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config
-Info 7    [17:18:42.130] For info: /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/index.js :: No config files found.
-Info 8    [17:18:42.136] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 9    [17:18:42.443] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 306.0909169912338ms
-Info 10   [17:18:42.443] Project '/dev/null/inferredProject1*' (Inferred)
-Info 11   [17:18:42.443] 	Files (60)
+Info 0    [17:23:34.967] Starting TS Server
+Info 1    [17:23:34.968] Version: 4.7.4
+Info 2    [17:23:34.968] Arguments: /Users/jessekelly/.nvm/versions/node/v16.16.0/bin/node /opt/homebrew/lib/node_modules/typescript/lib/tsserver.js --logFile /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/.log/tsserver.log --logVerbosity info --cancellationPipeName /private/var/folders/lc/y2dbm6r52hj5ljsq41phk2sm0000gn/T/47946df25f5040e199e49cb1bb9db68a/tscancellation*
+Info 3    [17:23:34.968] Platform: darwin NodeVersion: 16 CaseSensitive: false
+Info 4    [17:23:34.968] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [17:23:34.976] Format host information updated
+Info 6    [17:23:34.984] Search path: /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config
+Info 7    [17:23:34.984] For info: /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/index.js :: No config files found.
+Info 8    [17:23:34.987] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 9    [17:23:35.287] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 299.90599995851517ms
+Info 10   [17:23:35.287] Project '/dev/null/inferredProject1*' (Inferred)
+Info 11   [17:23:35.287] 	Files (60)
 
-Info 12   [17:18:42.443] -----------------------------------------------
-Info 13   [17:18:42.455] AutoImportProviderProject: found 6 root files in 6 dependencies in 11.30858302116394 ms
-Info 14   [17:18:42.456] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
-Info 15   [17:18:42.958] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 501.6542919874191ms
-Info 16   [17:18:42.958] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
-Info 17   [17:18:42.958] 	Files (284)
+Info 12   [17:23:35.287] -----------------------------------------------
+Info 13   [17:23:35.303] AutoImportProviderProject: found 6 root files in 6 dependencies in 14.658874988555908 ms
+Info 14   [17:23:35.304] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 15   [17:23:35.809] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 505.1125420331955ms
+Info 16   [17:23:35.809] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 17   [17:23:35.809] 	Files (284)
 
-Info 18   [17:18:42.958] -----------------------------------------------
-Info 19   [17:18:43.299] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 20   [17:18:43.304] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: false structureIsReused:: Completely Elapsed: 4.646167039871216ms
-Info 21   [17:18:43.304] Different program with same set of files
-Info 22   [17:18:43.304] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 23   [17:18:43.315] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: true structureIsReused:: Not Elapsed: 10.909750044345856ms
-Info 24   [17:18:43.316] Project '/dev/null/inferredProject1*' (Inferred)
-Info 25   [17:18:43.316] 	Files (64)
+Info 18   [17:23:35.809] -----------------------------------------------
+Info 19   [17:23:36.205] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 20   [17:23:36.247] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true structureIsReused:: Not Elapsed: 41.820083022117615ms
+Info 21   [17:23:36.247] Project '/dev/null/inferredProject1*' (Inferred)
+Info 22   [17:23:36.247] 	Files (64)
 
-Info 26   [17:18:43.316] -----------------------------------------------
-Info 27   [17:18:43.316] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
-Info 28   [17:18:43.316] 	Files (284)
+Info 23   [17:23:36.247] -----------------------------------------------
+Info 24   [17:23:36.247] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 25   [17:23:36.247] 	Files (284)
 
-Info 29   [17:18:43.316] -----------------------------------------------
-Info 30   [17:18:43.556] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 31   [17:18:43.559] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: false structureIsReused:: Completely Elapsed: 3.756749987602234ms
-Info 32   [17:18:43.559] Different program with same set of files
-Info 33   [17:18:44.521] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 34   [17:18:44.529] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: false structureIsReused:: Completely Elapsed: 7.9078750014305115ms
-Info 35   [17:18:44.530] Different program with same set of files
-Info 36   [17:18:45.614] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 37   [17:18:45.621] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 6 structureChanged: false structureIsReused:: Completely Elapsed: 6.640833020210266ms
-Info 38   [17:18:45.621] Different program with same set of files
-Info 39   [17:18:45.806] Before ensureProjectForOpenFiles:
-Info 40   [17:18:45.806] After ensureProjectForOpenFiles:
-Info 41   [17:18:45.807] got projects updated in background, updating diagnostics for /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/index.js
-Info 42   [17:18:46.402] Format host information updated
-Info 43   [17:18:48.870] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 44   [17:18:48.880] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 7 structureChanged: false structureIsReused:: Completely Elapsed: 9.195834040641785ms
-Info 45   [17:18:48.880] Different program with same set of files
-Info 46   [17:18:50.203] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 47   [17:18:50.217] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 8 structureChanged: false structureIsReused:: Completely Elapsed: 14.155500054359436ms
-Info 48   [17:18:50.217] Different program with same set of files
-Info 49   [17:18:50.442] Format host information updated
-Info 50   [17:19:11.657] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 51   [17:19:11.676] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 9 structureChanged: false structureIsReused:: Completely Elapsed: 18.64604103565216ms
-Info 52   [17:19:11.676] Different program with same set of files
-Info 53   [17:19:12.262] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 54   [17:19:12.272] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 10 structureChanged: false structureIsReused:: Completely Elapsed: 9.536125004291534ms
-Info 55   [17:19:12.272] Different program with same set of files
-Info 56   [17:19:12.722] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 57   [17:19:12.728] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 11 structureChanged: false structureIsReused:: Completely Elapsed: 5.869749963283539ms
-Info 58   [17:19:12.728] Different program with same set of files
-Info 59   [17:19:13.761] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 60   [17:19:13.769] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 12 structureChanged: false structureIsReused:: Completely Elapsed: 7.194750010967255ms
-Info 61   [17:19:13.769] Different program with same set of files
-Info 62   [17:19:14.633] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 63   [17:19:14.643] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 13 structureChanged: false structureIsReused:: Completely Elapsed: 9.458709001541138ms
-Info 64   [17:19:14.643] Different program with same set of files
-Info 65   [17:20:00.051] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 66   [17:20:00.072] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 14 structureChanged: false structureIsReused:: Completely Elapsed: 20.17925000190735ms
-Info 67   [17:20:00.072] Different program with same set of files
-Info 68   [17:20:00.072] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 69   [17:20:00.083] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 15 structureChanged: false structureIsReused:: Completely Elapsed: 10.791166961193085ms
-Info 70   [17:20:00.083] Different program with same set of files
-Info 71   [17:20:00.406] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 72   [17:20:00.416] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 16 structureChanged: false structureIsReused:: Completely Elapsed: 9.92312502861023ms
-Info 73   [17:20:00.416] Different program with same set of files
-Info 74   [17:20:01.392] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 75   [17:20:01.401] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 17 structureChanged: false structureIsReused:: Completely Elapsed: 9.482208967208862ms
-Info 76   [17:20:01.401] Different program with same set of files
-Info 77   [17:20:02.868] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
-Info 78   [17:20:02.876] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 18 structureChanged: false structureIsReused:: Completely Elapsed: 8.332333028316498ms
-Info 79   [17:20:02.877] Different program with same set of files
-Info 80   [17:20:03.062] Format host information updated
+Info 26   [17:23:36.247] -----------------------------------------------
+Info 27   [17:23:38.455] Before ensureProjectForOpenFiles:
+Info 28   [17:23:38.455] After ensureProjectForOpenFiles:
+Info 29   [17:23:38.456] got projects updated in background, updating diagnostics for /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/index.js
+Info 30   [17:23:41.632] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 31   [17:23:41.641] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false structureIsReused:: Completely Elapsed: 9.063374996185303ms
+Info 32   [17:23:41.641] Different program with same set of files
+Info 33   [17:23:42.395] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 34   [17:23:42.409] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: false structureIsReused:: Completely Elapsed: 11.781790971755981ms
+Info 35   [17:23:42.409] Different program with same set of files
+Info 36   [17:23:42.823] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 37   [17:23:42.829] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: false structureIsReused:: Completely Elapsed: 6.261624991893768ms
+Info 38   [17:23:42.829] Different program with same set of files
+Info 39   [17:23:43.704] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 40   [17:23:43.710] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 6 structureChanged: false structureIsReused:: Completely Elapsed: 6.61566698551178ms
+Info 41   [17:23:43.711] Different program with same set of files
+Info 42   [17:23:44.578] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 43   [17:23:44.585] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 7 structureChanged: false structureIsReused:: Completely Elapsed: 6.883125007152557ms
+Info 44   [17:23:44.585] Different program with same set of files
+Info 45   [17:23:44.806] Format host information updated

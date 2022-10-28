@@ -4,7 +4,8 @@ module.exports = {
         plugins: [
                 "fp-ts",
                 "jsdoc",
-                "@typescript-eslint"
+                "@typescript-eslint",
+                "functional"
         ],
         extends: [
                 "airbnb",
