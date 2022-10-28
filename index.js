@@ -1,7 +1,12 @@
 module.exports = {
         env: { es2021: true },
         plugins: ["fp-ts"],
-        extends: ["airbnb", "airbnb-typescript", "adjunct"],
+        extends: [
+                "airbnb",
+                "airbnb-typescript",
+                "plugin:fp-ts/recommended",
+                "adjunct"
+        ],
         parserOptions: {
                 ecmaFeatures: {
                         jsx: true,
@@ -18,8 +23,8 @@ module.exports = {
                 '@typescript-eslint/no-unused-vars': 'error',
                 'react/require-default-props': 'warn',
                 'no-nested-ternary': 'warn',
-                'fp-ts/no-lib-imports': 'error',
                 'no-param-reassign': 'warn',
                 'import/no-unresolved': 'warn',
+                "@typescript-eslint/no-redeclare": "warn" // Needed to have types named the same as objects
         },
 }
