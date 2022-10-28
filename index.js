@@ -1,11 +1,15 @@
 module.exports = {
         env: { es2021: true },
-        plugins: ["fp-ts"],
+        plugins: [
+                "fp-ts",
+                "jsdoc"
+        ],
         extends: [
                 "airbnb",
                 "airbnb-typescript",
                 "plugin:fp-ts/recommended",
-                "adjunct"
+                "adjunct",
+                "plugin:jsdoc/recommended"
         ],
         parserOptions: {
                 ecmaFeatures: {

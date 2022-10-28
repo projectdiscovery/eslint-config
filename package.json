@@ -17,5 +17,8 @@
   "optionalDependencies": {},
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "eslint-plugin-jsdoc": "^39.3.25"
   }
 }
