@@ -5,15 +5,12 @@ module.exports = {
                 "fp-ts",
                 "jsdoc",
                 "@typescript-eslint",
-                "functional"
         ],
         extends: [
                 "airbnb",
                 "airbnb-typescript",
                 "plugin:fp-ts/recommended",
                 "adjunct",
-                "plugin:jsdoc/recommended",
-                "plugin:functional/recommended",
         ],
         parserOptions: {
                 ecmaFeatures: {

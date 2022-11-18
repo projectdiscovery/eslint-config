@@ -1,0 +1,74 @@
+[23:51:34.841] Global cache location '/Users/jessekelly/Library/Caches/typescript/4.7', safe file path '/opt/homebrew/lib/node_modules/typescript/lib/typingsafelist.json', types map path /opt/homebrew/lib/node_modules/typescript/lib/typesmap.json
+[23:51:34.842] Processing cache location '/Users/jessekelly/Library/Caches/typescript/4.7'
+[23:51:34.842] Trying to find '/Users/jessekelly/Library/Caches/typescript/4.7/package.json'...
+[23:51:34.844] Loaded content of '/Users/jessekelly/Library/Caches/typescript/4.7/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.618"},"devDependencies":{"@types/babel__core":"^7.1.19","@types/babel__plugin-transform-runtime":"^7.9.2","@types/babel__preset-env":"^7.9.2","@types/eslint":"^8.4.10","@types/eslint-config-prettier":"^6.11.0","@types/eslint-plugin-prettier":"^3.1.0","@types/express":"^4.17.14","@types/mdx-js__react":"^1.5.5","@types/prettier":"^2.7.1","@types/react":"^18.0.21","@types/react-dom":"^18.0.6","@types/rollup-plugin-peer-deps-external":"^2.2.1","@types/testing-library__jest-dom":"^5.14.5"}}
+[23:51:34.844] Loaded content of '/Users/jessekelly/Library/Caches/typescript/4.7/package-lock.json'
+[23:51:34.850] Adding entry into typings cache: 'babel__core' => '/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/babel__core/index.d.ts'
+[23:51:34.852] Adding entry into typings cache: 'babel__plugin-transform-runtime' => '/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/babel__plugin-transform-runtime/index.d.ts'
+[23:51:34.852] Adding entry into typings cache: 'babel__preset-env' => '/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/babel__preset-env/index.d.ts'
+[23:51:34.853] Adding entry into typings cache: 'eslint' => '/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/index.d.ts'
+[23:51:34.854] Adding entry into typings cache: 'eslint-config-prettier' => '/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint-config-prettier/index.d.ts'
+[23:51:34.855] Adding entry into typings cache: 'eslint-plugin-prettier' => '/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint-plugin-prettier/index.d.ts'
+[23:51:34.856] Adding entry into typings cache: 'express' => '/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/express/index.d.ts'
+[23:51:34.856] Adding entry into typings cache: 'mdx-js__react' => '/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/mdx-js__react/index.d.ts'
+[23:51:34.858] Adding entry into typings cache: 'prettier' => '/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/prettier/index.d.ts'
+[23:51:34.860] Adding entry into typings cache: 'react' => '/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/react/index.d.ts'
+[23:51:34.862] Adding entry into typings cache: 'react-dom' => '/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/react-dom/index.d.ts'
+[23:51:34.863] Adding entry into typings cache: 'rollup-plugin-peer-deps-external' => '/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/rollup-plugin-peer-deps-external/index.d.ts'
+[23:51:34.864] Adding entry into typings cache: 'testing-library__jest-dom' => '/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/testing-library__jest-dom/index.d.ts'
+[23:51:34.864] Finished processing cache location '/Users/jessekelly/Library/Caches/typescript/4.7'
+[23:51:34.864] Process id: 5935
+[23:51:34.864] NPM location: /Users/jessekelly/.nvm/versions/node/v16.16.0/bin/npm (explicit '--npmLocation' not  provided)
+[23:51:34.864] validateDefaultNpmLocation: false
+[23:51:34.864] Npm config file: /Users/jessekelly/Library/Caches/typescript/4.7/package.json
+[23:51:34.864] Updating types-registry npm package...
+[23:51:34.864] Exec: /Users/jessekelly/.nvm/versions/node/v16.16.0/bin/npm install --ignore-scripts types-registry@latest
+[23:51:36.190]     Succeeded. stdout:
+    
+    up to date, audited 86 packages in 1s
+
+4 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[23:51:36.190] Updated types-registry npm package
+[23:51:36.212] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/opt/homebrew/lib/node_modules/typescript/lib/lib.es5.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2015.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2016.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.dom.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2015.core.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2016.full.d.ts","/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/index.js"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config","kind":"discover"}
+[23:51:36.219] Loaded safelist from types map file '/opt/homebrew/lib/node_modules/typescript/lib/typesmap.json'
+[23:51:36.220] Explicitly included types: []
+[23:51:36.220] Typing names in '/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/package.json' dependencies: ["eslint-plugin-functional","eslint-plugin-jsdoc","eslint"]
+[23:51:36.220] Searching for typing names in /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/node_modules; all files: ["/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/node_modules/eslint-plugin-functional/package.json","/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/node_modules/eslint-plugin-jsdoc/package.json","/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/node_modules/eslint/package.json"]
+[23:51:36.223]     Found package names: ["eslint-plugin-functional","eslint-plugin-jsdoc"]
+[23:51:36.223] Inferred typings from unresolved imports: []
+[23:51:36.223] Result: {"cachedTypingPaths":["/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/index.d.ts"],"newTypingNames":["eslint-plugin-functional","eslint-plugin-jsdoc"],"filesToWatch":["/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/bower_components","/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/package.json","/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/node_modules"]}
+[23:51:36.223] Finished typings discovery: {"cachedTypingPaths":["/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/index.d.ts"],"newTypingNames":["eslint-plugin-functional","eslint-plugin-jsdoc"],"filesToWatch":["/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/bower_components","/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/package.json","/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/node_modules"]}
+[23:51:36.223] DirectoryWatcher:: Added:: WatchInfo: /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/bower_components
+[23:51:36.223] DirectoryWatcher:: Added:: WatchInfo: /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[23:51:36.224] Elapsed:: 0.4847080707550049ms DirectoryWatcher:: Added:: WatchInfo: /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[23:51:36.224] FileWatcher:: Added:: WatchInfo: /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/package.json
+[23:51:36.224] FileWatcher:: Added:: WatchInfo: /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/package.json 2000 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[23:51:36.224] DirectoryWatcher:: Added:: WatchInfo: /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/node_modules
+[23:51:36.224] DirectoryWatcher:: Added:: WatchInfo: /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[23:51:36.226] Elapsed:: 1.6252079010009766ms DirectoryWatcher:: Added:: WatchInfo: /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[23:51:36.226] Installing typings ["eslint-plugin-functional","eslint-plugin-jsdoc"]
+[23:51:36.226] 'eslint-plugin-functional':: Entry for package 'eslint-plugin-functional' does not exist in local types registry - skipping...
+[23:51:36.226] 'eslint-plugin-jsdoc':: Entry for package 'eslint-plugin-jsdoc' does not exist in local types registry - skipping...
+[23:51:36.226] All typings are known to be missing or invalid - no need to install more typings
+[23:51:36.226] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":["/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/index.d.ts"],"unresolvedImports":[],"kind":"action::set"}
+[23:51:36.227] Response has been sent.
+[23:51:36.605] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/opt/homebrew/lib/node_modules/typescript/lib/lib.es5.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2015.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2016.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.dom.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2015.core.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/opt/homebrew/lib/node_modules/typescript/lib/lib.es2016.full.d.ts","/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/index.js","/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/helpers.d.ts","/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/index.d.ts"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config","kind":"discover"}
+[23:51:36.605] Explicitly included types: []
+[23:51:36.606] Typing names in '/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/package.json' dependencies: ["eslint-plugin-functional","eslint-plugin-jsdoc","eslint"]
+[23:51:36.606] Searching for typing names in /Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/node_modules; all files: ["/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/node_modules/eslint-plugin-functional/package.json","/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/node_modules/eslint-plugin-jsdoc/package.json","/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/node_modules/eslint/package.json"]
+[23:51:36.611]     Found package names: ["eslint-plugin-functional","eslint-plugin-jsdoc"]
+[23:51:36.611] Inferred typings from unresolved imports: []
+[23:51:36.611] Result: {"cachedTypingPaths":["/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/index.d.ts"],"newTypingNames":["eslint-plugin-functional","eslint-plugin-jsdoc"],"filesToWatch":["/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/bower_components","/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/package.json","/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/node_modules"]}
+[23:51:36.611] Finished typings discovery: {"cachedTypingPaths":["/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/index.d.ts"],"newTypingNames":["eslint-plugin-functional","eslint-plugin-jsdoc"],"filesToWatch":["/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/bower_components","/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/package.json","/Users/jessekelly/Desktop/ProjectDiscovery/eslint-config/node_modules"]}
+[23:51:36.611] Installing typings ["eslint-plugin-functional","eslint-plugin-jsdoc"]
+[23:51:36.611] 'eslint-plugin-functional':: Entry for package 'eslint-plugin-functional' does not exist in local types registry - skipping...
+[23:51:36.611] 'eslint-plugin-jsdoc':: Entry for package 'eslint-plugin-jsdoc' does not exist in local types registry - skipping...
+[23:51:36.611] All typings are known to be missing or invalid - no need to install more typings
+[23:51:36.611] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":["/Users/jessekelly/Library/Caches/typescript/4.7/node_modules/@types/eslint/index.d.ts"],"unresolvedImports":[],"kind":"action::set"}
+[23:51:36.611] Response has been sent.
