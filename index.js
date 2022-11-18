@@ -14,7 +14,6 @@ module.exports = {
                 "adjunct",
                 "plugin:jsdoc/recommended",
                 "plugin:functional/recommended",
-                "plugin:functional/stylistic"
         ],
         parserOptions: {
                 ecmaFeatures: {
